@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **vlearner/vlearner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,9 +6,7 @@
 Here are some ideas to get you started:
 -->
 ## My Name is Vishal Barot! 
--  A Software Engineer currently working at Wells Fargo, with a passion for crafting robust solutions in microservices architecture and automation tools.
--  I finds joy in harnessing the power of Python scripts and exploring the realms of Machine
-            Learning and constantly expanding my skill set to innovate and solve complex problems.
+Senior engineer with 5+ years building AI-enabled services, hybrid cloud architectures, and scalable automated platforms. Experienced in Generative AI workflows, prompt engineering, Kubernetes/OpenShift deployments, CI/CD automation, and cross-functional collaboration to drive real-world, production-grade outcomes
   <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
