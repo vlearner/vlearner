@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 ## My Name is Vishal Barot! 
-Senior engineer with 5+ years building AI-enabled services, hybrid cloud architectures, and scalable automated platforms. Experienced in Generative AI workflows, prompt engineering, Kubernetes/OpenShift deployments, CI/CD automation, and cross-functional collaboration to drive real-world, production-grade outcomes
+Senior engineer with 6 years building AI-enabled services, hybrid cloud architectures, and scalable automated platforms. Experienced in Generative AI workflows, prompt engineering, Kubernetes/OpenShift deployments, CI/CD automation, and cross-functional collaboration to drive real-world, production-grade outcomes
   <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
